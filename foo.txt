@@ -1,3 +1,4 @@
 foo
 fooooooo
 foo
+foo
